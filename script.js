@@ -9,7 +9,7 @@ function changeImage() {
         '240p': 'images/240p.png',
         '480p': 'images/480p.png',
         '720p': 'images/720p.png',
-        '1080p': 'images/1080p.png'
+        '1080p': 'images/1080p.jpg'
     };
 
     // Change image source based on selected quality
